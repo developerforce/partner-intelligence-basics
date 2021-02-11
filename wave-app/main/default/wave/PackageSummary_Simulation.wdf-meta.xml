@@ -3,6 +3,6 @@
     <content xsi:nil="true"/>
     <application>WAVE_PUBLIC_DATAFLOWS</application>
     <dataflowType>User</dataflowType>
-    <description>PackageSummary_LMA</description>
-    <masterLabel>PackageSummary_LMA</masterLabel>
+    <description>PackageSummary_Simulation</description>
+    <masterLabel>PackageSummary_Simulation</masterLabel>
 </WaveDataflow>
