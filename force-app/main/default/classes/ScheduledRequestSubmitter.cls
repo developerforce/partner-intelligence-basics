@@ -19,7 +19,7 @@ global with sharing class ScheduledRequestSubmitter Implements Schedulable {
             aaqr.DataType = 'PackageUsageSummary';
             aaqr.StartTime = startTime;
             aaqr.EndTime = endTime;
-            aaqr.PackageIds =  p.sfLma__Package_ID__c;
+            aaqr.PackageIds = p.sfLma__Package_ID__c;
             aaqrList.add(aaqr);
         }
 
