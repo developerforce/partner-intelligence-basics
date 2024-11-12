@@ -1,0 +1,13 @@
+{
+  "orgName": "Partner Intelligence Basics HOC",
+  "edition": "Developer",
+  "features": ["DevelopmentWave","WavePlatform"],
+  "settings": {
+    "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+    },
+    "appAnalyticsSettings": {
+      "enableSimulationMode": true
+    }
+  }
+}
